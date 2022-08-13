@@ -1,2 +1,3 @@
 # flutter-tutorial
-Here we will walk through the process of developing our first Flutter App!
+
+Made by Elijah Storm - We can work together with sample data to create a Tinder like swipe app!
